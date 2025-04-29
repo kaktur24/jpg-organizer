@@ -1,0 +1,59 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/Artur/.m2/repository/org/slf4j/slf4j-log4j12/1.7.6/slf4j-log4j12-1.7.6.jar;C:/Users/Artur/.m2/repository/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.jar;C:/Users/Artur/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'E:/WIT Java/projekt3-java/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/WIT Java/projekt3-java/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'projekt3-java 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'E:/WIT Java/projekt3-java/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'projekt3-java 1.0-SNAPSHOT API'
+pl.wit.projekt
+'E:/WIT Java/projekt3-java/src/main/java/pl/wit/projekt/App.java'
+'E:/WIT Java/projekt3-java/src/main/java/pl/wit/projekt/BadParameterException.java'
+'E:/WIT Java/projekt3-java/src/main/java/pl/wit/projekt/FileCopyingContext.java'
+'E:/WIT Java/projekt3-java/src/main/java/pl/wit/projekt/FileCopyingException.java'
+'E:/WIT Java/projekt3-java/src/main/java/pl/wit/projekt/FileCopyingTask.java'
+'E:/WIT Java/projekt3-java/src/main/java/pl/wit/projekt/FileOrganizer.java'
+'E:/WIT Java/projekt3-java/src/main/java/pl/wit/projekt/FilePicker.java'
+'E:/WIT Java/projekt3-java/src/main/java/pl/wit/projekt/ParameterSet.java'
+C:\Users\Artur\.m2\repository\org\slf4j\slf4j-log4j12\1.7.6\slf4j-log4j12-1.7.6.jar = 1647795016351
+C:\Users\Artur\.m2\repository\org\slf4j\slf4j-api\1.7.6\slf4j-api-1.7.6.jar = 1647795016525
+C:\Users\Artur\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar = 1647795018205
+E:\WIT Java\projekt3-java\src\main\java = 1653410688420
+E:\WIT Java\projekt3-java\target\site\apidocs\allclasses-index.html = 1655924379257
+E:\WIT Java\projekt3-java\target\site\apidocs\allpackages-index.html = 1655924379261
+E:\WIT Java\projekt3-java\target\site\apidocs\element-list = 1655924379124
+E:\WIT Java\projekt3-java\target\site\apidocs\help-doc.html = 1655924379301
+E:\WIT Java\projekt3-java\target\site\apidocs\index-all.html = 1655924379291
+E:\WIT Java\projekt3-java\target\site\apidocs\index.html = 1655924379294
+E:\WIT Java\projekt3-java\target\site\apidocs\jquery-ui.overrides.css = 1655924379343
+E:\WIT Java\projekt3-java\target\site\apidocs\member-search-index.js = 1655924379268
+E:\WIT Java\projekt3-java\target\site\apidocs\module-search-index.js = 1655924379263
+E:\WIT Java\projekt3-java\target\site\apidocs\overview-tree.html = 1655924379231
+E:\WIT Java\projekt3-java\target\site\apidocs\package-search-index.js = 1655924379265
+E:\WIT Java\projekt3-java\target\site\apidocs\script.js = 1655924379307
+E:\WIT Java\projekt3-java\target\site\apidocs\search.js = 1655924379310
+E:\WIT Java\projekt3-java\target\site\apidocs\serialized-form.html = 1655924379165
+E:\WIT Java\projekt3-java\target\site\apidocs\stylesheet.css = 1655924379305
+E:\WIT Java\projekt3-java\target\site\apidocs\tag-search-index.js = 1655924379270
+E:\WIT Java\projekt3-java\target\site\apidocs\type-search-index.js = 1655924379267

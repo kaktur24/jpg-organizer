@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="pl.wit.projekt.FileOrganizerTest" time="0.104" tests="8" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1250"/>
+    <property name="java.class.path" value="E:\WIT Java\projekt3-java\target\test-classes;E:\WIT Java\projekt3-java\target\classes;C:\Users\Artur\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Artur\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Artur\.m2\repository\org\slf4j\slf4j-log4j12\1.7.6\slf4j-log4j12-1.7.6.jar;C:\Users\Artur\.m2\repository\org\slf4j\slf4j-api\1.7.6\slf4j-api-1.7.6.jar;C:\Users\Artur\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Warsaw"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="PL"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.2\bin"/>
+    <property name="sun.java.command" value="C:\Users\Artur\AppData\Local\Temp\surefire15578287521656092186\surefirebooter13281044239205519240.jar C:\Users\Artur\AppData\Local\Temp\surefire15578287521656092186 2022-06-22T20-59-08_958-jvmRun1 surefire17281583755798556984tmp surefire_015428923070417015341tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="E:\WIT Java\projekt3-java\target\test-classes;E:\WIT Java\projekt3-java\target\classes;C:\Users\Artur\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Artur\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Artur\.m2\repository\org\slf4j\slf4j-log4j12\1.7.6\slf4j-log4j12-1.7.6.jar;C:\Users\Artur\.m2\repository\org\slf4j\slf4j-api\1.7.6\slf4j-api-1.7.6.jar;C:\Users\Artur\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Artur"/>
+    <property name="user.language" value="pl"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-01-18"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17.0.2"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="E:\WIT Java\projekt3-java"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Artur\AppData\Local\Temp\surefire15578287521656092186\surefirebooter13281044239205519240.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.2+8-LTS-86"/>
+    <property name="user.name" value="Artur"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1250"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Artur\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Artur\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.2"/>
+    <property name="user.dir" value="E:\WIT Java\projekt3-java"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1250"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Artur\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Artur\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Maven\apache-maven-3.8.5\bin;C:\Program Files\PuTTY;C:\Program Files\Git\cmd;C:\Program Files\dotnet;C:\Users\Artur\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3\bin;C:\Users\Artur\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Artur\.dotnet\tools;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.2+8-LTS-86"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="organizeDstPathIsNullTest" classname="pl.wit.projekt.FileOrganizerTest" time="0.002"/>
+  <testcase name="organizeDstPathIsNotFolderTest" classname="pl.wit.projekt.FileOrganizerTest" time="0.002"/>
+  <testcase name="organizeDstPathFolderIsNoNEmptyTest" classname="pl.wit.projekt.FileOrganizerTest" time="0.002"/>
+  <testcase name="organizePerormanceTest" classname="pl.wit.projekt.FileOrganizerTest" time="0.048"/>
+  <testcase name="organizeDstPathDoesNotExistTest" classname="pl.wit.projekt.FileOrganizerTest" time="0.025"/>
+  <testcase name="organizeFilesSetIsEmptyTest" classname="pl.wit.projekt.FileOrganizerTest" time="0.002"/>
+  <testcase name="organizeFilesSetIsNullTest" classname="pl.wit.projekt.FileOrganizerTest" time="0.002"/>
+  <testcase name="orgaznizeCorrectExecutionTest" classname="pl.wit.projekt.FileOrganizerTest" time="0.02"/>
+</testsuite>
