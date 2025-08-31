@@ -1,0 +1,73 @@
+(Get-Item "img-225x300.png").CreationTime=("3 March 2022 16:35:10")
+(Get-Item "img-225x300.png").LastWriteTime=("3 March 2022 16:35:10")
+
+(Get-Item "img-640x400.jpg").CreationTime=("18 May 2022 12:08:00")
+(Get-Item "img-640x400.jpg").LastWriteTime=("18 May 2022 12:08:00")
+
+(Get-Item "img-850x850.jpg").CreationTime=("18 May 2022 14:18:00")
+(Get-Item "img-850x850.jpg").LastWriteTime=("18 May 2022 14:18:00")
+
+(Get-Item "img-1800x2500.jpg").CreationTime=("19 May 2022 14:18:00")
+(Get-Item "img-1800x2500.jpg").LastWriteTime=("19 May 2022 14:18:00")
+
+(Get-Item "img-2900x1880.jpg").CreationTime=("18 April 2022 12:08:00")
+(Get-Item "img-2900x1880.jpg").LastWriteTime=("18 April 2022 12:08:00")
+
+
+
+(Get-Item "f1\f1-img-225x300.png").CreationTime=("3 March 2022 16:35:10")
+(Get-Item "f1\f1-img-225x300.png").LastWriteTime=("3 March 2022 16:35:10")
+
+(Get-Item "f1\f1-img-640x400.jpg").CreationTime=("18 May 2021 12:08:00")
+(Get-Item "f1\f1-img-640x400.jpg").LastWriteTime=("18 May 2021 12:08:00")
+
+(Get-Item "f1\f1-img-850x850.jpg").CreationTime=("18 May 2021 14:18:00")
+(Get-Item "f1\f1-img-850x850.jpg").LastWriteTime=("18 May 2021 14:18:00")
+
+(Get-Item "f1\f1-img-1800x2500.jpeg").CreationTime=("19 May 2021 14:18:00")
+(Get-Item "f1\f1-img-1800x2500.jpeg").LastWriteTime=("19 May 2021 14:18:00")
+
+
+
+(Get-Item "f3\f3-img-225x300.png").CreationTime=("3 March 2022 16:35:10")
+(Get-Item "f3\f3-img-225x300.png").LastWriteTime=("3 March 2022 16:35:10")
+
+
+
+(Get-Item "f4\f4-img-640x400.jpg").CreationTime=("2 September 2021 20:58:00")
+(Get-Item "f4\f4-img-640x400.jpg").LastWriteTime=("3 September 2021 20:58:00")
+
+(Get-Item "f4\f4-img-850x850.jpg").CreationTime=("2 September 2021 15:33:00")
+(Get-Item "f4\f4-img-850x850.jpg").LastWriteTime=("2 September 2021 15:33:00")
+
+(Get-Item "f4\f41\f4-img-1800x2500.jpg").CreationTime=("2 September 2021 20:58:00")
+(Get-Item "f4\f41\f4-img-1800x2500.jpg").LastWriteTime=("5 September 2021 20:58:00")
+
+(Get-Item "f4\f41\f4-img-2900x1880.jpg").CreationTime=("12 December 2021 09:24:00")
+(Get-Item "f4\f41\f4-img-2900x1880.jpg").LastWriteTime=("12 December 2021 09:24:00")
+
+
+
+
+(Get-Item "f5\img-640x400.JPG").CreationTime=("1 January 2011 07:00:00")
+(Get-Item "f5\img-640x400.JPG").LastWriteTime=("1 January 2011 07:00:00")
+
+(Get-Item "f5\img-850x850.jfif").CreationTime=("2 September 2021 18:49:00")
+(Get-Item "f5\img-850x850.jfif").LastWriteTime=("2 September 2021 18:49:00")
+
+(Get-Item "f5\img-1800x2500.jpe").CreationTime=("19 May 2022 14:18:00")
+(Get-Item "f5\img-1800x2500.jpe").LastWriteTime=("19 May 2022 14:18:00")
+
+(Get-Item "f5\img-2900x1880.JPEG").CreationTime=("18 April 2022 12:08:00")
+(Get-Item "f5\img-2900x1880.JPEG").LastWriteTime=("18 April 2022 12:08:00")
+
+
+
+
+
+
+
+
+
+
+

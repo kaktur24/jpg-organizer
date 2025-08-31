@@ -1,0 +1,26 @@
+DEBUG [main]: Test organizePerormanceTest execution
+8 threads in pool - time : 13
+2 threads in pool - time : 22
+
+DEBUG [main]: -------------------------------------------------
+DEBUG [main]: Test organizeDstPathDoesNotExistTest execution
+INFO  [pool-6-thread-5]: File src\test\resources\source-test-folder\f1\f1-img-850x850.jpg was copied successfully to folder 2021-05-18 with name: 1.jpg
+INFO  [pool-6-thread-6]: File src\test\resources\source-test-folder\img-1800x2500.jpg was copied successfully to folder 2022-05-19 with name: 1.jpg
+INFO  [pool-6-thread-3]: File src\test\resources\source-test-folder\img-640x400.jpg was copied successfully to folder 2022-04-18 with name: 2.jpg
+INFO  [pool-6-thread-4]: File src\test\resources\source-test-folder\f1\f1-img-1800x2500.jpeg was copied successfully to folder 2021-05-19 with name: 1.jpeg
+INFO  [pool-6-thread-2]: File src\test\resources\source-test-folder\f1\f1-img-640x400.jpg was copied successfully to folder 2022-04-18 with name: 3.jpg
+INFO  [pool-6-thread-8]: File src\test\resources\source-test-folder\img-850x850.jpg was copied successfully to folder 2022-05-18 with name: 1.jpg
+INFO  [pool-6-thread-1]: File src\test\resources\source-test-folder\f5\img-2900x1880.JPEG was copied successfully to folder 2022-04-18 with name: 1.JPEG
+INFO  [pool-6-thread-7]: File src\test\resources\source-test-folder\img-2900x1880.jpg was copied successfully to folder 2022-04-18 with name: 4.jpg
+DEBUG [main]: -------------------------------------------------
+DEBUG [main]: Test organizeFilesSetIsEmptyTest execution
+DEBUG [main]: -------------------------------------------------
+DEBUG [main]: Test orgaznizeCorrectExecutionTest execution
+INFO  [pool-9-thread-6]: File src\test\resources\source-test-folder\img-1800x2500.jpg was copied successfully to folder 2022-05-19 with name: 1.jpg
+INFO  [pool-9-thread-2]: File src\test\resources\source-test-folder\f1\f1-img-640x400.jpg was copied successfully to folder 2021-04-19 with name: 2.jpg
+INFO  [pool-9-thread-4]: File src\test\resources\source-test-folder\f1\f1-img-1800x2500.jpeg was copied successfully to folder 2021-05-19 with name: 2.jpeg
+INFO  [pool-9-thread-5]: File src\test\resources\source-test-folder\f1\f1-img-850x850.jpg was copied successfully to folder 2021-05-19 with name: 1.jpg
+INFO  [pool-9-thread-3]: File src\test\resources\source-test-folder\img-640x400.jpg was copied successfully to folder 2021-04-19 with name: 1.jpg
+INFO  [pool-9-thread-8]: File src\test\resources\source-test-folder\img-850x850.jpg was copied successfully to folder 2022-05-18 with name: 1.jpg
+INFO  [pool-9-thread-7]: File src\test\resources\source-test-folder\img-2900x1880.jpg was copied successfully to folder 2022-04-18 with name: 1.jpg
+INFO  [pool-9-thread-1]: File src\test\resources\source-test-folder\f5\img-2900x1880.JPEG was copied successfully to folder 2022-04-19 with name: 1.JPEG
